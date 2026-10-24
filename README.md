@@ -331,5 +331,5 @@ Distributed under the MIT License. See `LICENSE` for details. (Replace with the 
 
 Maintainer: Anand
 Project: nexTrade
-Repository: https://github.com/your-username/nextrade
-Email: your-email@example.com
+Repository: https://github.com/sudo-anand/nextrade
+Email: anandpandey20005@gmail.com
